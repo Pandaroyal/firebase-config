@@ -1,3 +1,4 @@
 node_modules/
+package-lock.json
 .env
 config/fir-demo-2cb97-firebase-adminsdk-yshue-53d5bf04c2.json
